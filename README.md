@@ -1,4 +1,4 @@
-# 🔥 Big Data Project - Hadoop MapReduce & Apache Spark
+# 🐘🔥 Big Data Project - Hadoop MapReduce & Apache Spark
 
 <div align="center">
 
@@ -9,7 +9,7 @@
 
 *Big Data analysis and distributed computing using Hadoop MapReduce and Apache Spark*
 
-[📖 Documentation](#-documentation) • [🚀 Features](#-features) • [⚙️ Installation](#️-installation) • [📊 Results](#-results)
+[📖 Documentation](#-documentation) • [🚀 Features](#-features) • [⚙️ Installation](#️-installation) • [📊 Performance Analysis](#-performance-analysis)
 
 </div>
 
@@ -27,7 +27,7 @@ The repository showcases:
 
 ---
 
-## ✨ Features
+## 🚀 Features
 
 - ✅ **Distributed Customer Loyalty Analysis** using Hadoop MapReduce
 - ✅ **Regional Sales Extremes Detection** using Apache Spark RDDs
@@ -77,8 +77,8 @@ Big-Data-Project/
 │       └── sales_data.csv
 │
 ├── Project-Report-BIG-DATA.pdf         # Complete project documentation
-├── README.md
-└── docker-compose.yml
+└── README.md
+
 ```
 
 ---
