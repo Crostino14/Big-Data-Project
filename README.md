@@ -22,20 +22,7 @@ This project demonstrates advanced **Big Data processing techniques** using two 
 The repository showcases:
 - 🐘 **Hadoop MapReduce** for fault-tolerant, disk-based batch processing
 - 🔥 **Apache Spark** for fast, in-memory iterative computations
-- 📊 Real-world retail analytics use cases
 - ⚖️ Performance comparison between single-node and cluster deployments
-
----
-
-## 🚀 Features
-
-- ✅ **Distributed Customer Loyalty Analysis** using Hadoop MapReduce
-- ✅ **Regional Sales Extremes Detection** using Apache Spark RDDs
-- ✅ **Custom Writable Implementation** for efficient data serialization
-- ✅ **Numerical Summarization Pattern** for data aggregation
-- ✅ **Docker-based Cluster Configuration** for both Hadoop and Spark
-- ✅ **Performance Benchmarking** (Single-Node vs Cluster)
-- ✅ **Comprehensive Documentation** with execution results
 
 ---
 
