@@ -52,37 +52,6 @@ The repository showcases:
 
 ---
 
-## 📁 Project Structure
-
-```
-Big-Data-Project/
-│
-├── MapReduce/                          # Hadoop MapReduce Exercise
-│   ├── src/
-│   │   ├── DriverCustomerLoyalty.java
-│   │   ├── MapperCustomerLoyalty.java
-│   │   ├── ReducerCustomerLoyalty.java
-│   │   └── CustomerDataWritable.java
-│   ├── Exercise1_BIGDATA.jar
-│   └── data/
-│       └── store3.csv
-│
-├── Spark/                              # Apache Spark Exercise
-│   ├── src/
-│   │   └── RegionSaleAnalysisDriver.java
-│   ├── Exercise2_BIGDATA.jar
-│   ├── launch_single.sh
-│   ├── launch_cluster.sh
-│   └── data/
-│       └── sales_data.csv
-│
-├── Project-Report-BIG-DATA.pdf         # Complete project documentation
-└── README.md
-
-```
-
----
-
 ## 🎯 Exercises
 
 ### Exercise 1: Customer Loyalty Analysis with Hadoop MapReduce 🐘
