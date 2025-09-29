@@ -1,0 +1,342 @@
+CustomerID;CustomerSegments;OrderCount;TotalSales;NumberOfPurchasesCurrentYear
+11;Home Office;1;211.15;1
+14;Small Business;1;1214.93;4
+15;Small Business;1;413.00;2
+16;Small Business;1;964.79;2
+18;Small Business;1;455.77;1
+19;Small Business;1;231.79;1
+21;Small Business;1;3084.04;3
+2198;Small Business;1;771.39;2
+2201;Small Business;1;27.96;1
+2202;Home Office;1;1733.91;3
+2203;Home Office;1;1924.66;2
+2204;Consumer, Home Office;2;5937.58;2
+2206;Consumer;1;606.47;2
+2209;Home Office;1;83.93;1
+2211;Home Office;1;193.88;1
+2212;Home Office;1;990.25;1
+2215;Corporate;1;14.76;1
+2216;Corporate;1;875.85;2
+2220;Consumer;1;55.08;1
+2225;Small Business;1;1608.11;1
+2240;Corporate;1;99.75;1
+2250;Home Office;1;51.41;1
+2254;Corporate;1;765.22;3
+2256;Corporate;1;1735.19;2
+2257;Corporate;1;91.92;1
+2258;Corporate;1;3034.61;2
+2260;Corporate;1;723.76;4
+2264;Corporate;1;577.75;1
+2265;Corporate;1;125.86;2
+2266;Corporate;1;283.56;2
+2268;Small Business;1;4086.50;1
+2270;Small Business;1;3272.49;3
+2272;Corporate;1;78.08;1
+2273;Corporate;1;2215.20;2
+2274;Corporate;1;298.51;1
+2276;Consumer;1;3846.06;1
+2279;Home Office;1;35.93;1
+2281;Home Office;1;1610.84;1
+2282;Home Office;1;86.12;1
+2283;Home Office;1;76.87;1
+2285;Corporate;1;374.60;1
+2286;Corporate;1;132.31;3
+2287;Corporate;1;1125.75;4
+2289;Home Office;1;136.25;1
+2290;Corporate, Home Office;2;1978.30;3
+2302;Corporate;1;2814.94;3
+2303;Corporate;1;10608.12;2
+2305;Small Business;1;1159.79;1
+2308;Small Business;1;1569.19;2
+2323;Small Business;1;460.81;3
+2330;Home Office;1;134.09;1
+2333;Small Business;1;191.73;1
+2334;Consumer, Home Office, Small Business;3;799.05;4
+2338;Home Office;1;105.36;2
+2339;Home Office;1;73.96;1
+2345;Corporate;1;2117.31;2
+2346;Corporate;1;6512.23;2
+2351;Corporate;1;80.86;1
+2352;Consumer, Home Office;2;3031.73;3
+2353;Corporate;1;167.12;2
+2355;Consumer;1;2395.79;2
+2356;Consumer;1;668.38;1
+2358;Corporate, Home Office;2;365.55;2
+2359;Home Office;1;53.42;1
+2361;Corporate;1;8.49;1
+2363;Home Office;1;69.89;1
+2369;Consumer;1;77.42;1
+2372;Corporate;1;7.20;1
+2376;Corporate;1;170.44;2
+2379;Small Business;1;1477.84;1
+2380;Small Business;1;1191.54;2
+2382;Small Business;1;10671.06;3
+2385;Small Business;1;2259.99;1
+2391;Corporate;1;1458.67;4
+2393;Corporate;1;1219.16;2
+2394;Corporate;1;236.97;2
+2395;Corporate;1;904.31;1
+2398;Corporate;1;96.86;1
+24;Corporate;1;69.74;2
+2417;Consumer;1;765.65;1
+2418;Consumer;1;6392.50;3
+2419;Consumer;1;1184.52;2
+2420;Consumer;1;100.87;1
+2422;Home Office;1;1899.64;2
+2423;Home Office;1;414.91;1
+2426;Small Business;1;462.39;3
+2427;Corporate;1;885.65;1
+2430;Home Office;1;447.59;3
+2431;Consumer;1;2238.15;2
+2432;Consumer;1;474.32;2
+2433;Consumer;1;47.40;1
+2437;Home Office;1;260.00;1
+2441;Consumer;1;709.70;1
+2442;Consumer;1;27.42;1
+2443;Corporate;1;769.53;2
+2448;Consumer;1;96.96;1
+2450;Home Office;1;4.21;1
+2454;Corporate;1;3550.28;1
+2456;Home Office;1;2198.56;2
+2457;Home Office;1;140.70;1
+2458;Home Office;1;58.30;2
+2460;Home Office;1;515.39;2
+2464;Consumer;1;2940.62;4
+2466;Corporate;1;491.21;3
+2468;Corporate, Home Office;2;894.03;2
+2472;Home Office;1;51.13;1
+2481;Corporate;1;79.61;1
+2484;Corporate;1;1010.11;2
+2486;Small Business;1;2498.20;3
+2487;Small Business;1;1230.78;3
+2488;Consumer;1;370.10;2
+2489;Consumer, Home Office;2;6270.61;3
+2490;Home Office;1;782.66;2
+2491;Consumer, Home Office;2;14645.45;7
+2495;Consumer;1;8.66;1
+2498;Corporate, Small Business;2;12808.03;4
+2499;Corporate;1;2814.57;1
+2500;Small Business;1;88.85;1
+2502;Home Office;1;161.26;2
+2506;Home Office;1;10.72;1
+2507;Home Office;1;10180.01;1
+2508;Home Office;1;42.44;1
+2509;Home Office;1;462.57;1
+2512;Home Office;1;125.37;1
+2516;Home Office;1;190.85;1
+2520;Home Office;1;370.68;1
+2521;Home Office;1;2400.95;1
+2522;Home Office;1;7303.05;1
+2526;Corporate;1;58.05;1
+2527;Corporate;1;68.64;1
+2530;Small Business;1;277.07;1
+2531;Small Business;1;51.99;1
+2534;Small Business;1;149.67;1
+2539;Home Office;1;61.10;1
+2540;Home Office;1;193.81;1
+2543;Small Business;1;3452.47;2
+2545;Home Office;1;202.98;1
+2547;Small Business;1;10.86;1
+2548;Small Business;1;10574.04;5
+2549;Small Business;1;2210.83;4
+2551;Small Business;1;385.45;1
+2553;Home Office;1;19.32;1
+2555;Home Office;1;334.10;3
+2561;Consumer;1;2005.18;3
+2563;Home Office;1;39.17;1
+2570;Consumer;1;7792.97;4
+2571;Consumer;1;29916.01;2
+2578;Home Office;1;2834.91;3
+2579;Home Office;1;200.51;2
+2583;Home Office;1;1638.83;2
+2584;Home Office;1;97.98;1
+2587;Home Office;1;417.71;2
+2593;Corporate;1;4500.72;2
+2601;Corporate;1;42.02;1
+2603;Corporate;1;3705.14;1
+2604;Corporate;1;945.36;1
+2610;Corporate;1;49.24;1
+2613;Corporate;1;68.45;1
+2616;Corporate;1;44.75;1
+2617;Corporate;1;40.69;1
+2618;Corporate;1;2338.18;6
+2619;Corporate;1;145.22;2
+2620;Corporate;1;257.92;1
+2621;Corporate;1;207.22;1
+2626;Consumer;1;237.80;1
+2628;Corporate;1;448.47;1
+2630;Small Business;1;4542.16;4
+2638;Consumer;1;1277.49;1
+2639;Consumer;1;14.20;1
+2647;Corporate;1;222.53;2
+2649;Corporate;1;203.29;1
+2650;Corporate;1;759.88;1
+2652;Consumer;1;94.20;1
+2653;Consumer;1;426.77;2
+2655;Consumer, Corporate;2;541.13;2
+2660;Small Business;1;599.03;1
+2667;Home Office;1;493.08;2
+2668;Corporate, Home Office;2;204.79;3
+2670;Home Office;1;28779.13;2
+2671;Home Office;1;6938.19;1
+2677;Small Business;1;455.27;2
+2684;Small Business;1;1326.35;5
+2685;Small Business;1;17.64;1
+2689;Home Office;1;74.23;1
+2693;Home Office;1;627.19;1
+2696;Home Office;1;612.92;1
+2697;Corporate;1;2598.65;2
+2699;Corporate;1;1424.32;2
+27;Corporate;1;54.78;1
+2704;Consumer;1;74.68;2
+2709;Consumer;1;1483.55;2
+2713;Corporate;1;761.42;2
+2715;Corporate;1;31.96;1
+2718;Consumer;1;98.17;1
+2720;Small Business;1;264.95;1
+2724;Home Office;1;176.01;2
+2725;Home Office;1;282.38;1
+2729;Consumer;1;924.80;1
+2737;Small Business;1;1015.25;2
+2738;Small Business;1;237.77;1
+2741;Small Business;1;316.28;1
+2745;Corporate;1;2591.09;1
+2747;Corporate;1;10514.60;2
+2750;Small Business;1;657.61;1
+2760;Corporate;1;241.97;1
+2764;Corporate;1;120.81;1
+2765;Corporate;1;41.40;1
+2770;Corporate;1;159.53;1
+2771;Corporate;1;536.29;1
+2773;Corporate;1;10.96;1
+2775;Consumer;1;4146.28;1
+2776;Consumer;1;3916.27;2
+2778;Consumer;1;2956.63;2
+2779;Corporate;1;345.07;1
+2781;Consumer;1;8229.48;3
+2787;Consumer;1;393.98;1
+2791;Corporate;1;19.29;1
+2794;Corporate;1;28.13;2
+2795;Corporate;1;2722.43;3
+2796;Corporate;1;386.61;1
+2797;Consumer, Corporate;2;87.25;2
+2801;Home Office;1;284.34;1
+2803;Small Business;1;4093.16;2
+2813;Corporate;1;364.92;1
+2817;Corporate;1;159.72;2
+2820;Home Office;1;395.43;2
+2823;Corporate;1;240.05;1
+2825;Consumer;1;127.36;2
+2828;Corporate;1;557.49;2
+2833;Small Business;1;1417.42;2
+2837;Home Office;1;869.53;2
+2840;Corporate;1;938.45;4
+2847;Corporate;1;393.94;3
+2848;Corporate;1;832.97;1
+2851;Consumer;1;1042.54;1
+2855;Consumer, Corporate;2;7410.30;3
+2858;Corporate;1;7435.77;4
+2859;Corporate;1;3292.02;1
+2861;Corporate;1;199.43;1
+2862;Corporate;1;110.71;1
+2865;Corporate;1;330.02;2
+2867;Corporate;1;226.88;1
+2868;Corporate;1;5399.94;3
+2873;Small Business;1;2306.12;2
+2874;Home Office;1;6499.15;3
+2877;Consumer;1;107.51;1
+2878;Consumer;1;421.08;1
+2880;Small Business;1;5665.09;2
+2882;Consumer;1;12417.56;8
+2883;Consumer;1;59.79;1
+2884;Consumer;1;2025.22;2
+2885;Consumer;1;318.18;1
+2886;Consumer;1;174.46;3
+2892;Consumer;1;2125.12;1
+2893;Consumer;1;45.05;1
+2896;Home Office;1;7415.64;2
+2897;Home Office;1;920.56;2
+2903;Small Business;1;364.26;1
+2908;Home Office;1;649.94;4
+2912;Home Office;1;674.39;2
+2920;Home Office;1;1068.60;1
+2923;Consumer;1;99.75;1
+2924;Consumer;1;295.18;2
+2928;Consumer;1;2181.70;2
+2931;Small Business;1;135.77;1
+2932;Small Business;1;55.43;1
+2935;Small Business;1;20.46;1
+2938;Small Business;1;931.87;1
+2941;Small Business;1;21.41;1
+2944;Corporate;1;59.75;1
+2947;Consumer;1;162.49;1
+2951;Corporate;1;2629.15;2
+2952;Corporate;1;70.03;1
+2954;Consumer;1;102.43;1
+2957;Corporate;1;137.76;1
+2958;Corporate;1;326.03;1
+2960;Corporate;1;379.72;1
+2962;Consumer;1;48.33;1
+2963;Consumer;1;34.91;1
+2964;Consumer;1;47.04;1
+2968;Small Business;1;1087.19;3
+2973;Home Office;1;5359.17;3
+2976;Small Business;1;1278.96;1
+2979;Corporate;1;331.37;4
+2980;Corporate;1;596.50;4
+2987;Home Office;1;1736.34;2
+2991;Home Office;1;141.59;1
+2992;Home Office;1;203.05;1
+2999;Consumer;1;56.19;1
+3;Corporate;1;13.01;1
+3000;Consumer;1;40.80;1
+3001;Consumer;1;117.87;1
+3003;Home Office;1;1503.05;1
+3004;Corporate;1;738.94;2
+3005;Corporate;1;1506.89;1
+3006;Corporate;1;174.58;2
+3008;Home Office;1;364.03;2
+3011;Corporate;1;18642.71;4
+3012;Corporate;1;4597.89;3
+3017;Corporate;1;56.38;2
+3035;Home Office;1;128.54;2
+3036;Home Office;1;4294.47;4
+3041;Corporate;1;1211.60;2
+3042;Small Business;1;171.33;1
+3045;Small Business;1;84.04;1
+3046;Small Business;1;251.06;1
+3048;Corporate;1;2610.56;1
+3053;Corporate;1;1173.76;1
+3063;Consumer;1;2779.60;3
+3064;Consumer;1;56.71;1
+3067;Consumer;1;5086.08;1
+3069;Consumer;1;2131.99;3
+3075;Corporate;1;84.60;1
+3076;Small Business;1;296.75;1
+3077;Small Business;1;582.20;1
+3078;Small Business;1;207.12;2
+3079;Small Business;1;16792.21;7
+3084;Small Business;1;1029.41;3
+3086;Consumer;1;130.91;1
+3089;Corporate;1;281.82;1
+3095;Consumer;1;991.24;1
+3096;Consumer;1;2914.81;4
+3098;Consumer;1;493.70;3
+3100;Consumer;1;31.71;1
+3105;Home Office;1;150.99;2
+32;Corporate;1;5086.54;4
+33;Corporate;1;111.78;2
+43;Consumer;1;647.07;1
+5;Home Office;1;6362.85;1
+52;Corporate;1;627.04;1
+53;Corporate;1;3377.74;2
+56;Consumer;1;103.12;2
+62;Corporate;1;529.24;2
+64;Small Business;1;593.80;2
+67;Corporate;1;1225.60;1
+68;Corporate;1;15943.48;4
+70;Corporate;1;1400.53;1
+83;Corporate;1;1821.89;1
+84;Consumer, Corporate;2;10818.98;2
+87;Corporate;1;6045.23;3
+91;Home Office;1;170.80;1
