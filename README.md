@@ -15,23 +15,6 @@
 
 ---
 
-## 📋 Table of Contents
-
-- [Overview](#-overview)
-- [Features](#-features)
-- [Technologies](#-technologies)
-- [Project Structure](#-project-structure)
-- [Exercises](#-exercises)
-  - [Exercise 1: Customer Loyalty Analysis](#exercise-1-customer-loyalty-analysis-with-hadoop-mapreduce-)
-  - [Exercise 2: Regional Sales Analysis](#exercise-2-regional-sales-analysis-with-apache-spark-)
-- [Installation](#️-installation)
-- [Usage](#-usage)
-- [Performance Analysis](#-performance-analysis)
-- [Documentation](#-documentation)
-- [Author](#-author)
-
----
-
 ## 🎯 Overview
 
 This project demonstrates advanced **Big Data processing techniques** using two industry-standard frameworks: **Hadoop MapReduce** and **Apache Spark**. The work focuses on solving real-world retail data problems by leveraging the specific strengths of each distributed computing paradigm.
