@@ -15,7 +15,7 @@
 
 ---
 
-## 🎯 Overview
+## 🏬 Project Overview
 
 This project demonstrates advanced **Big Data processing techniques** using two industry-standard frameworks: **Hadoop MapReduce** and **Apache Spark**. The work focuses on solving real-world retail data problems by leveraging the specific strengths of each distributed computing paradigm.
 
